@@ -1,6 +1,6 @@
 # 14.33 Final Project: The effect of conditional cash transfers onpolitical and economic sentiments in El Salvador
 
-TThis paper estimates the impact of a large conditional cash transfer program in El Salvador onrecipients’ political and economic sentiments towards their country.
+This paper estimates the impact of a large conditional cash transfer program in El Salvador onrecipients’ political and economic sentiments towards their country.
 
 ## Usage
 
